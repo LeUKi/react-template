@@ -1,0 +1,1 @@
+npx degit user/repo project-name
